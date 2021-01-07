@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="lauchmainSkin" width="725" height="520" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="1753a4dd80f" ></w:Config>
+	<e:Image id="bg" anchorOffsetX="0" anchorOffsetY="0" left="0" bottom="0" top="0" right="-1" source="bg_jpg" fillMode="scale" verticalCenter="0" width="725"/>
+	<e:Label text="VS" x="291.18" y="0" anchorOffsetX="0" width="137.64" anchorOffsetY="0" height="81.52" size="65" verticalAlign="middle" textAlign="center"/>
+	<e:Label id="booldrt" text="" x="432.8" y="17.96" anchorOffsetX="0" width="130.06" anchorOffsetY="0" height="33.03" size="40"/>
+	<e:Label id="booldlt" text="" x="180.84" y="14.92" anchorOffsetX="0" width="130.06" anchorOffsetY="0" height="33.03" size="40"/>
+</e:Skin>

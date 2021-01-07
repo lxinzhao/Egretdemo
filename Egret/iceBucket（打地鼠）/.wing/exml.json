@@ -1,0 +1,15 @@
+{
+  "174bfd90aea": {
+    "path": "startScene.ts",
+    "class": "startScene",
+    "parentPath": ""
+  },
+  "global": {
+    "globalAutoLayerMarkEnable": false
+  },
+  "174c4ffa821": {
+    "path": "gameOver.ts",
+    "class": "gameOver",
+    "parentPath": ""
+  }
+}

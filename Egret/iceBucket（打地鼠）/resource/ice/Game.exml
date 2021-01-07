@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameSkin" width="640" height="964" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="174bfec9f54" ></w:Config>
+	<e:Image source="bg_png" x="0" top="0" bottom="0"/>
+	<e:Group id="group" width="640" x="0" anchorOffsetY="0" top="0" bottom="0">
+		<e:Group width="142" height="180" x="48" anchorOffsetY="0" y="418.15" visible="false">
+			<e:Rect width="142" height="174" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" ellipseWidth="90"/>
+			<e:Image width="138.19" height="192.73" x="3.02" y="-216.4" source="bucket_png" anchorOffsetX="0" anchorOffsetY="0" visible="false"/>
+			<e:Image width="144.24" height="183.64" x="0" y="-146.82" source="water-full_png" anchorOffsetX="0" anchorOffsetY="0" visible="false"/>
+		</e:Group>
+		<e:Group width="142" height="180" x="265" anchorOffsetY="0" y="420" visible="false">
+			<e:Rect width="142" height="174" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" ellipseWidth="90"/>
+			<e:Image width="138.19" height="192.73" x="3.02" y="-216.4" source="bucket_png" anchorOffsetX="0" anchorOffsetY="0" visible="false"/>
+			<e:Image width="144.24" height="183.64" x="0" y="-148.82" source="water-full_png" anchorOffsetX="0" anchorOffsetY="0" visible="false"/>
+		</e:Group>
+		<e:Group width="142" height="180" x="471" anchorOffsetY="0" y="425" visible="false">
+			<e:Rect width="142" height="174" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" ellipseWidth="90"/>
+			<e:Image width="138.19" height="192.73" x="3.02" y="-216.4" source="bucket_png" anchorOffsetX="0" anchorOffsetY="0" visible="false"/>
+			<e:Image width="144.24" height="183.64" x="0" y="-142.82" source="water-full_png" anchorOffsetX="0" anchorOffsetY="0" visible="false"/>
+		</e:Group>
+		<e:Group width="142" height="180" x="48" anchorOffsetY="0" y="611" visible="false">
+			<e:Rect width="142" height="174" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" ellipseWidth="90"/>
+			<e:Image width="138.19" height="192.73" x="3.02" y="-216.4" source="bucket_png" anchorOffsetX="0" anchorOffsetY="0" visible="false"/>
+			<e:Image width="144.24" height="183.64" x="0" y="-143.82" source="water-full_png" anchorOffsetX="0" anchorOffsetY="0" visible="false"/>
+		</e:Group>
+		<e:Group width="142" height="180" x="265" anchorOffsetY="0" y="617" visible="false">
+			<e:Rect width="142" height="174" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" ellipseWidth="90"/>
+			<e:Image width="138.19" height="192.73" x="3.02" y="-216.4" source="bucket_png" anchorOffsetX="0" anchorOffsetY="0" visible="false"/>
+			<e:Image width="144.24" height="183.64" x="0" y="-146.82" source="water-full_png" anchorOffsetX="0" anchorOffsetY="0" visible="false"/>
+		</e:Group>
+		<e:Group width="142" height="180" x="471" anchorOffsetY="0" y="611" visible="false">
+			<e:Rect width="142" height="174" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" ellipseWidth="90"/>
+			<e:Image width="138.19" height="192.73" x="3.02" y="-216.4" source="bucket_png" anchorOffsetX="0" anchorOffsetY="0" visible="false"/>
+			<e:Image width="144.24" height="183.64" x="0" y="-147.82" source="water-full_png" anchorOffsetX="0" anchorOffsetY="0" visible="false"/>
+		</e:Group>
+		<e:Group width="142" height="180" x="48" anchorOffsetY="0" y="799" visible="false">
+			<e:Rect width="142" height="174" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" ellipseWidth="90"/>
+			<e:Image width="138.19" height="192.73" x="3.02" y="-216.4" source="bucket_png" anchorOffsetX="0" anchorOffsetY="0" visible="false"/>
+			<e:Image width="144.24" height="183.64" x="0" y="-141.82" source="water-full_png" anchorOffsetX="0" anchorOffsetY="0" visible="false"/>
+		</e:Group>
+		<e:Group width="142" height="180" x="258" anchorOffsetY="0" y="801" visible="false">
+			<e:Rect width="142" height="174" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" ellipseWidth="90"/>
+			<e:Image width="138.19" height="192.73" x="3.02" y="-216.4" source="bucket_png" anchorOffsetX="0" anchorOffsetY="0" visible="false"/>
+			<e:Image width="144.24" height="183.64" x="0" y="-146.82" source="water-full_png" anchorOffsetX="0" anchorOffsetY="0" visible="false"/>
+		</e:Group>
+		<e:Group width="142" height="180" x="469" anchorOffsetY="0" y="798" visible="false">
+			<e:Rect width="142" height="174" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" ellipseWidth="90"/>
+			<e:Image width="138.19" height="192.73" x="3.02" y="-216.4" source="bucket_png" anchorOffsetX="0" anchorOffsetY="0" visible="false"/>
+			<e:Image width="144.24" height="183.64" x="0" y="-153.82" source="water-full_png" anchorOffsetX="0" anchorOffsetY="0" visible="false"/>
+		</e:Group>
+		<e:Label id="timeDownTXT" text="30" x="104.85" y="34.97" size="91" anchorOffsetX="0" width="100.36" anchorOffsetY="0" height="128.79" textColor="0xfcf7f7" fontFamily="Tahoma"/>
+		<e:Label id="tongNumTXT" text="0" x="393.64" y="68.3" size="91" anchorOffsetX="0" width="106.42" anchorOffsetY="0" height="89.4" textColor="0xFCF7F7" fontFamily="Tahoma"/>
+	</e:Group>
+</e:Skin>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameStartPanelSkin" width="414" height="736" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="1750bec421a" ></w:Config>
+	<e:Image id="bg" source="1_jpg" x="0" y="0" anchorOffsetX="0" width="414" fillMode="scale" anchorOffsetY="0" height="736"/>
+	<e:Button id="stabutton" label="" x="113.89" y="550.03" anchorOffsetX="0" width="187.87" alpha="1" anchorOffsetY="0" height="61.12">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="stabutton_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="superbutton" label="" x="113.89" y="637.39" anchorOffsetX="0" width="187.89" alpha="1" anchorOffsetY="0" height="59.61">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="superbutton_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Image id="logo" source="logo_png" x="26" y="449"/>
+</e:Skin>

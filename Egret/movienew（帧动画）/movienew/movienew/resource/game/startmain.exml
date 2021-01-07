@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="startmainSkin" width="725" height="520" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="1753a4865aa" ></w:Config>
+	<e:Image id="bg" anchorOffsetX="0" anchorOffsetY="0" source="1_jpg" fillMode="scale" left="0" right="6" width="725" height="520" y="0"/>
+	<e:Button id="start" label="开始游戏" x="229.69" y="414.87" anchorOffsetY="0" height="68.19" anchorOffsetX="0" width="260.61"/>
+</e:Skin>

@@ -1,0 +1,10 @@
+{
+  "1750bec421a": {
+    "path": "containers\\GameStartPanel.ts",
+    "class": "GameStartPanel",
+    "parentPath": ""
+  },
+  "global": {
+    "globalAutoLayerMarkEnable": false
+  }
+}

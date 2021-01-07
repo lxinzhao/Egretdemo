@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="startSceneSkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="174bfd90aea" ></w:Config>
+	<e:Image source="start_jpg" anchorOffsetY="0" fillMode="scale" width="640" x="0" top="2" bottom="0" height="960"/>
+	<e:Button id="btn_Start" label="" x="211" y="572" anchorOffsetY="0" height="276" anchorOffsetX="0" width="218" enabled="true" alpha="0"/>
+</e:Skin>
